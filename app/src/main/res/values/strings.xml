@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyJEK</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+</resources>
